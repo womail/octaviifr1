@@ -2,6 +2,16 @@
 
 This project provides a comprehensive setup guide and scripts to configure a Linux system to work seamlessly with the Octaviifr1 for the X-Plane flight simulator.
 
+## What This App Does
+
+The Octaviifr1 Linux Setup app automates the configuration of your Linux environment to ensure compatibility with the Octaviifr1 device when using the X-Plane flight simulator. It handles the installation of necessary dependencies, configures system settings, and provides scripts to streamline the setup process.
+
+### Options
+
+- **Automatic Setup**: Run the provided setup script to automatically configure your system with the recommended settings.
+- **Manual Configuration**: Follow the detailed instructions in the documentation to manually set up your system, allowing for customization and adjustments as needed.
+- **Troubleshooting Tools**: Utilize included scripts and documentation to diagnose and resolve common setup issues.
+
 ## Installation
 
 Follow these steps to install and set up your Linux system for use with Octaviifr1 and X-Plane:
