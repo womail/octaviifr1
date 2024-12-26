@@ -1,0 +1,2 @@
+Description: This is a Udev file manager for the Octavi IFR
+Application: octavi-app.py
