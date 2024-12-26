@@ -35,3 +35,6 @@ We welcome contributions to improve the setup process or expand compatibility. P
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details. 
+
+## OS
+This has only been test on a Manjaro Linux Platform
